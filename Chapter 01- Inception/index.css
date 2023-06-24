@@ -1,3 +1,21 @@
-#heading{
-    color: red;
+#heading {
+  color: red;
+}
+
+#parent {
+  display: flex;
+  flex-direction: row;
+  /* margin: 5px; */
+}
+
+#list ul li {
+  list-style-type: none;
+  width: 10px;
+  border-bottom: 5px solid #fff;
+  padding: 10px;
+  background-color: black;
+}
+
+#list li {
+  color: blue;
 }
