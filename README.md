@@ -1,4 +1,4 @@
-# import points of React by Akshay Saini
+# Important points of React by Akshay Saini
 
 
 # Parcel
